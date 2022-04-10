@@ -1,0 +1,7 @@
+h2o
+jupyter
+numpy
+pandas
+seaborn
+sklearn
+xgboost
